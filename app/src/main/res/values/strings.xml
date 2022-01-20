@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intents_Ejercicio_4</string>
+    <string name="titulo">Buscar Zaragoza</string>
+    <string name="btnMap">Pulsa para abrir el mapa de Zaragoza</string>
+    <string name="Zaragoza">https://goo.gl/maps/YGxJjf4SJNJU4CuQ9</string>
+</resources>
